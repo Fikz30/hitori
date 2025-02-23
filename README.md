@@ -41,7 +41,7 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/nazedev/hitori
+git clone https://github.com/Fikz30/hitori
 cd hitori
 npm install
 npm update
@@ -54,7 +54,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/nazedev/hitori
+git clone https://github.com/Fikz30/hitori
 cd hitori
 npm install
 ```
