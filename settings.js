@@ -27,7 +27,7 @@ global.fake = {
 }
 
 global.my = {
-       wa : https://wa.me/6282189966179
+         wa : 'https://wa.me/6282189966179'
 }
 
 global.limit = {
