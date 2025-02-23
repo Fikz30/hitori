@@ -87,7 +87,7 @@ node .
 License: [MIT](https://choosealicense.com/licenses/mit/)
 
 #### Support Me
-- [Saweria](https://saweria.co/naze)
+- [Saweria](https://saweria.co/Fikkzz)
 
 ## Thanks to
 
