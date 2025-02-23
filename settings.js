@@ -4,7 +4,6 @@ const chalk = require('chalk');
 /*
 	* Create By Fikz
 	* Follow https://github.com/Fikz30
-	* Whatsapp : https://wa.me/6282189966179
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
